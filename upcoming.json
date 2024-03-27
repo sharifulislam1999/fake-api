@@ -1,0 +1,43 @@
+[
+    {
+      "title": "The Starless Sea",
+      "author": "Erin Morgenstern",
+      "genre": "Fantasy",
+      "release_date": "2024-05-15",
+      "publisher": "Doubleday",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617715077i/43575115.jpg"
+    },
+    {
+      "title": "The Glass Hotel",
+      "author": "Emily St. John Mandel",
+      "genre": "Fiction",
+      "release_date": "2024-06-10",
+      "publisher": "Knopf",
+      "image_url": "https://m.media-amazon.com/images/I/813D3rxw7VL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "release_date": "2024-07-20",
+      "publisher": "Ballantine Books",
+      "image_url": "https://cdn2.penguin.com.au/covers/original/9781529157468.jpg"
+    },
+    {
+      "title": "The Last House on Needless Street",
+      "author": "Catriona Ward",
+      "genre": "Mystery",
+      "release_date": "2024-08-05",
+      "publisher": "Tor Books",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603323638l/54621094.jpg"
+    },
+    {
+      "title": "The Maidens",
+      "author": "Alex Michaelides",
+      "genre": "Thriller",
+      "release_date": "2024-09-18",
+      "publisher": "Celadon Books",
+      "image_url": "https://m.media-amazon.com/images/I/71rfVwy5MiL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+  
