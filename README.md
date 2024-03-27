@@ -2,8 +2,7 @@
 # Book Fair
 Welcome to the Book Fair GitHub repository! Book Fair is a cozy haven for book lovers where you can discover and indulge in a wide variety of books across different genres. This repository serves as the digital hub for our bookshop, providing information about our offerings, events, and more.
 
-## Live Link
-[Live Link :](https://b9a8_book_fair_shariful_islam.surge.sh)
+## Live Link [Go Live :](https://b9a8_book_fair_shariful_islam.surge.sh)
 
 
 ## Features
